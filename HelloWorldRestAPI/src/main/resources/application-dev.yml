@@ -1,0 +1,5 @@
+spring:
+  application:
+    name:  HelloWorldRest-API
+server:
+  port: 8080 #By default it will be 8080 only, if we want we can change
